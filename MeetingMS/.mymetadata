@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MeetingMS"
+  id="myeclipse.1512697172936"
+  context-root="/MeetingMS"
+  j2ee-spec="6.0"
+  archive="MeetingMS.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context> 
+<Resource auth="Container" 
+driverClassName="com.mysql.jdbc.Driver" 
+maxActive="100" 
+maxIdle="40" 
+maxWait="1200" 
+name="jdbc/meeting" 
+username="root" 
+password="zzx" 
+type="javax.sql.DataSource" url="jdbc:mysql://10.10.27.27:3306/meeting?characterEncoding=UTF-8" /> 
+</Context>
